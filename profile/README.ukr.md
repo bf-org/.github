@@ -1,4 +1,6 @@
-# BitForge ([![eng-logo]](README.md))
+# BitForge
+
+[👉 ![eng-logo]](./README.md)
 
 [eng-logo]: https://img.shields.io/badge/-eng-blue?style=flat-square&logo=googletranslate&logoColor=white&labelColor=grey&cacheSeconds=3600
 

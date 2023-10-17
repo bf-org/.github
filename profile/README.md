@@ -1,4 +1,6 @@
-# BitForge ([![urk-logo]](README.ukr.md))
+# BitForge
+
+[👉 ![urk-logo]](./README.ukr.md)
 
 [urk-logo]: https://img.shields.io/badge/-ukr-blue?style=flat-square&logo=googletranslate&logoColor=%23000000&labelColor=%23FFD800&color=%230056B9&cacheSeconds=3600
 
